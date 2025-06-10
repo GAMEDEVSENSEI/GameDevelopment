@@ -1,0 +1,21 @@
+# Unity cache klasörleri
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / Rider dosyaları
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.unityproj
+*.svd
+.vscode/
+
+# Mac dosyaları
+.DS_Store
